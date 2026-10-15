@@ -1,0 +1,5 @@
+Model,Feature set,Test accuracy,Test macro-F1
+Tuned HistGradientBoosting,Extended 31,0.782258064516129,0.7662372731543425
+Tuned Random Forest,Extended 31,0.7459677419354839,0.7398621527786415
+Weighted soft-voting ensemble,Extended 31,0.7701612903225806,0.7548031690832636
+Equal soft-voting ensemble,Extended 31,0.7741935483870968,0.7600456792529964

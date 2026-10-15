@@ -1,0 +1,15 @@
+Model,Feature set,Test accuracy,Test macro-F1
+Tuned HistGradientBoosting,Extended 31,0.782258064516129,0.7662372731543425
+Equal soft-voting ensemble,Extended 31,0.7741935483870968,0.7600456792529964
+Weighted soft-voting ensemble,Extended 31,0.7701612903225806,0.7548031690832636
+Tuned Random Forest,Extended 31,0.7459677419354839,0.7398621527786415
+SVM — RBF (scaled),Paper audio 10,0.42338709677419356,0.40753091755224263
+SVM — sigmoid (scaled),Paper audio 10,0.375,0.3491736454656812
+SVM — polynomial (scaled),Paper audio 10,0.3588709677419355,0.33517521136165207
+SVM — RBF (unscaled),Paper audio 10,0.1774193548387097,0.08431707287542528
+Paper NN (1 sigmoid hidden layer),Paper audio 10,0.1693548387096774,0.1176740128987987
+Perceptron (scaled),Paper audio 10,0.16129032258064516,0.15013068101583504
+SVM — polynomial (unscaled),Paper audio 10,0.16129032258064516,0.07078416089405101
+Paper NN (2 hidden layers),Paper audio 10,0.14919354838709678,0.08498607663398251
+SVM — sigmoid (unscaled),Paper audio 10,0.10483870967741936,0.035260882528324385
+Perceptron (unscaled),Paper audio 10,0.10080645161290322,0.04221874616611459

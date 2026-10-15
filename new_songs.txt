@@ -1,0 +1,90 @@
+1. Neon Afterglow — Luma District
+    CUSTOM_SONG = {
+    "danceability": 0.81,
+    "energy": 0.86,
+    "key": 5,
+    "loudness": -4.8,
+    "mode": 1,
+    "speechiness": 0.06,
+    "acousticness": 0.08,
+    "instrumentalness": 0.02,
+    "liveness": 0.14,
+    "valence": 0.79,
+    "tempo": 124.0,
+    "duration_ms": 205000,
+    "track_popularity": 0,
+    "release_year": 2025,
+}
+
+2. Velvet Rain — Sora Bloom
+    CUSTOM_SONG = {
+    "danceability": 0.48,
+    "energy": 0.34,
+    "key": 8,
+    "loudness": -10.2,
+    "mode": 0,
+    "speechiness": 0.035,
+    "acousticness": 0.78,
+    "instrumentalness": 0.12,
+    "liveness": 0.11,
+    "valence": 0.29,
+    "tempo": 82.0,
+    "duration_ms": 232000,
+    "track_popularity": 0,
+    "release_year": 2025,
+}
+
+3. Gravity Pulse — Vex Meridian
+    CUSTOM_SONG = {
+    "danceability": 0.72,
+    "energy": 0.96,
+    "key": 1,
+    "loudness": -3.7,
+    "mode": 0,
+    "speechiness": 0.045,
+    "acousticness": 0.015,
+    "instrumentalness": 0.76,
+    "liveness": 0.22,
+    "valence": 0.52,
+    "tempo": 132.0,
+    "duration_ms": 218000,
+    "track_popularity": 0,
+    "release_year": 2025,
+}
+
+4. Paper Moons — Mira Sol
+    CUSTOM_SONG = {
+    "danceability": 0.56,
+    "energy": 0.38,
+    "key": 4,
+    "loudness": -9.1,
+    "mode": 1,
+    "speechiness": 0.035,
+    "acousticness": 0.84,
+    "instrumentalness": 0.01,
+    "liveness": 0.09,
+    "valence": 0.44,
+    "tempo": 94.0,
+    "duration_ms": 224000,
+    "track_popularity": 0,
+    "release_year": 2025,
+}
+
+5. Solar Static — Kairo North
+    CUSTOM_SONG = {
+    "danceability": 0.88,
+    "energy": 0.79,
+    "key": 9,
+    "loudness": -5.1,
+    "mode": 1,
+    "speechiness": 0.075,
+    "acousticness": 0.11,
+    "instrumentalness": 0.0,
+    "liveness": 0.16,
+    "valence": 0.91,
+    "tempo": 118.0,
+    "duration_ms": 193000,
+    "track_popularity": 0,
+    "release_year": 2025,
+}
+
